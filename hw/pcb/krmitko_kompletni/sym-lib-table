@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tenso_bridge")(type "KiCad")(uri "${KIPRJMOD}/tenso_bridge.kicad_sym")(options "")(descr ""))
+)

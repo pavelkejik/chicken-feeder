@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8411PWPR
+D Motor / Motion / Ignition Controllers & Drivers 1.65-V to 11-V, 4-A, dual H-bridge motor driver with current regulation 16-HTSSOP -40 to 125
+K
+F https://www.ti.com/lit/ds/symlink/drv8411.pdf?ts=1705212623005&ref_url=https%253A%252F%252Fwww.mouser.de%252F
+$ENDCMP
+#
+#End Doc Library

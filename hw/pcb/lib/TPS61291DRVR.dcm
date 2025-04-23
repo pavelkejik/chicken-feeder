@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS61291DRVR
+D Low Iq Boost Converter with 15nA Bypass Operation
+K
+F http://www.ti.com/lit/ds/symlink/tps61291.pdf
+$ENDCMP
+#
+#End Doc Library

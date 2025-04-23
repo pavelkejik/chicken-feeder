@@ -1,0 +1,38 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DRV8411PWPR
+#/18882072/1257271/2.50/17/3/Integrated Circuit
+DEF DRV8411PWPR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "DRV8411PWPR" 1050 200 50 H V L CNN
+F2 "SOP65P640X120-17N" 1050 100 50 H I L CNN
+F3 "https://www.ti.com/lit/ds/symlink/drv8411.pdf?ts=1705212623005&ref_url=https%253A%252F%252Fwww.mouser.de%252F" 1050 0 50 H I L CNN
+F4 "Motor / Motion / Ignition Controllers & Drivers 1.65-V to 11-V, 4-A, dual H-bridge motor driver with current regulation 16-HTSSOP -40 to 125" 1050 -100 50 H I L CNN "Description"
+F5 "1.2" 1050 -200 50 H I L CNN "Height"
+F6 "595-DRV8411PWPR" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8411PWPR?qs=Jm2GQyTW%2Fbh94%2Foiwc2p9w%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "DRV8411PWPR" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X NSLEEP 1 0 0 200 R 50 50 0 0 P
+X AOUT1 2 0 -100 200 R 50 50 0 0 P
+X AISEN 3 0 -200 200 R 50 50 0 0 P
+X AOUT2 4 0 -300 200 R 50 50 0 0 P
+X BOUT2 5 0 -400 200 R 50 50 0 0 P
+X BISEN 6 0 -500 200 R 50 50 0 0 P
+X BOUT1 7 0 -600 200 R 50 50 0 0 P
+X NFAULT 8 0 -700 200 R 50 50 0 0 P
+X EP 17 600 -1200 200 U 50 50 0 0 P
+X AIN1 16 1200 0 200 L 50 50 0 0 P
+X AIN2 15 1200 -100 200 L 50 50 0 0 P
+X NC_2 14 1200 -200 200 L 50 50 0 0 P
+X GND 13 1200 -300 200 L 50 50 0 0 P
+X VM 12 1200 -400 200 L 50 50 0 0 P
+X NC_1 11 1200 -500 200 L 50 50 0 0 P
+X BIN2 10 1200 -600 200 L 50 50 0 0 P
+X BIN1 9 1200 -700 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -1000 200 -1000 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
